@@ -1,4 +1,4 @@
-// TEST============================================
+// dschermele test============================================
 // ENEMY — Your name here!
 // Extends GameObject with AI behavior.
 // Create subclasses for different enemy types!
